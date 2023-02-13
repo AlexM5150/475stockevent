@@ -8,26 +8,28 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alex Melford\\.nuget\\packages\\": {}
+    "/Users/alexmelford/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex Melford\\Documents\\Github\\stockevent\\stockevent.csproj",
+      "projectUniqueName": "/Users/alexmelford/Projects/stockevent/stockevent.csproj",
       "projectName": "stockevent",
-      "projectPath": "C:\\Users\\Alex Melford\\Documents\\Github\\stockevent\\stockevent.csproj",
-      "packagesPath": "C:\\Users\\Alex Melford\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex Melford\\Documents\\Github\\stockevent\\obj\\",
+      "projectPath": "/Users/alexmelford/Projects/stockevent/stockevent.csproj",
+      "packagesPath": "/Users/alexmelford/.nuget/packages/",
+      "outputPath": "/Users/alexmelford/Projects/stockevent/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Alex Melford\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/alexmelford/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

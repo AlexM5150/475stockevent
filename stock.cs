@@ -75,7 +75,7 @@ namespace Stock
         // event
         //public event StockNotification ProcessComplete; 
         //-------------------------------------------------------------------------------
- 
+
         /// <summary> 
         /// Changes the stock value and also raising the event of stock value changes 
         /// </summary> 

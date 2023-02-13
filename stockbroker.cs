@@ -24,8 +24,9 @@ namespace Stock
         readonly string destPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory,
 "Lab1_output.txt");
 
-        public string titles = "Broker".PadRight(10) + "Stock".PadRight(15) +
-            "Value".PadRight(10) + "Changes".PadRight(10) + "Date and Time"; 
+        public string titles = "Broker".PadRight(16) + "Stock".PadRight(16) +
+            "Value".PadRight(16) + "Changes".PadRight(20) + "Date and Time";
+        Boolean flag = true;
 //---------------------------------------------------------------------------------------
  
         /// <summary> 
@@ -66,6 +67,15 @@ namespace Stock
                 string output = (BrokerName.PadRight(16) + newStock.StockName.PadRight(16) + newStock.CurrentValue.ToString().PadRight(16) +
                     newStock.NumChanges.ToString().PadRight(16) + DateTime.Now.ToString().PadRight(16));
                 Console.WriteLine(output);
+                //overwrite file with titles once per loop
+                if (flag)
+                {
+                    using (StreamWriter writer = new StreamWriter(destPath))
+                    {
+                        writer.WriteLine(titles);
+                    }
+                    flag = false;
+                }
                 //Display the output to the file
                 using (StreamWriter outputFile = new StreamWriter(destPath, true))
                 {
