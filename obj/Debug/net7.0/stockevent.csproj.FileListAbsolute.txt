@@ -1,0 +1,15 @@
+/Users/alexmelford/Projects/stockevent/bin/Debug/net7.0/stockevent
+/Users/alexmelford/Projects/stockevent/bin/Debug/net7.0/stockevent.deps.json
+/Users/alexmelford/Projects/stockevent/bin/Debug/net7.0/stockevent.runtimeconfig.json
+/Users/alexmelford/Projects/stockevent/bin/Debug/net7.0/stockevent.dll
+/Users/alexmelford/Projects/stockevent/bin/Debug/net7.0/stockevent.pdb
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.csproj.AssemblyReference.cache
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.AssemblyInfoInputs.cache
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.AssemblyInfo.cs
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.csproj.CoreCompileInputs.cache
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.dll
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/refint/stockevent.dll
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.pdb
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.genruntimeconfig.cache
+/Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/ref/stockevent.dll
