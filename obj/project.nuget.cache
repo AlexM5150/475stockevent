@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1gDCMFq4bFGeDOxKlj7Z2NqEVHQj5YForu3U2r8LrvJMraBbNbyi7pEkdzompfrQUN3bA0I9Fg7laXQsI5s5pQ==",
+  "dgSpecHash": "ETfuEbTIeLPFI8e+wgOUk+TFqOMNyQS/D9iV2LrZuB1kB4T9jilIM/KRphPET9l+v1f5NnXlf6MAuleGysgUyg==",
   "success": true,
-  "projectFilePath": "/Users/alexmelford/Projects/stockevent/stockevent.csproj",
+  "projectFilePath": "C:\\Users\\Alex Melford\\Documents\\Github\\stockevent\\stockevent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

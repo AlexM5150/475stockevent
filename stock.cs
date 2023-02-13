@@ -86,7 +86,7 @@ namespace Stock
             NumChanges++;
             if ((CurrentValue - InitialValue) > Threshold)
             {  //RAISE THE EVENT
-                StockEvent.Invoke(this, new StockNotification(StockName, CurrentValue, NumChanges));
+                StockEvent?.Invoke(this, new StockNotification(StockName, CurrentValue, NumChanges));
 
 
 

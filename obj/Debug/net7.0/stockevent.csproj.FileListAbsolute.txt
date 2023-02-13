@@ -13,3 +13,18 @@
 /Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.pdb
 /Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/stockevent.genruntimeconfig.cache
 /Users/alexmelford/Projects/stockevent/obj/Debug/net7.0/ref/stockevent.dll
+C:\Users\Alex Melford\Documents\Github\stockevent\bin\Debug\net7.0\stockevent.exe
+C:\Users\Alex Melford\Documents\Github\stockevent\bin\Debug\net7.0\stockevent.deps.json
+C:\Users\Alex Melford\Documents\Github\stockevent\bin\Debug\net7.0\stockevent.runtimeconfig.json
+C:\Users\Alex Melford\Documents\Github\stockevent\bin\Debug\net7.0\stockevent.dll
+C:\Users\Alex Melford\Documents\Github\stockevent\bin\Debug\net7.0\stockevent.pdb
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\stockevent.csproj.AssemblyReference.cache
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\stockevent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\stockevent.AssemblyInfoInputs.cache
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\stockevent.AssemblyInfo.cs
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\stockevent.csproj.CoreCompileInputs.cache
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\stockevent.dll
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\refint\stockevent.dll
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\stockevent.pdb
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\stockevent.genruntimeconfig.cache
+C:\Users\Alex Melford\Documents\Github\stockevent\obj\Debug\net7.0\ref\stockevent.dll

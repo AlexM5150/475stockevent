@@ -45,7 +45,7 @@ namespace Stock
         public void AddStock(Stock stock)
         {
             stocks.Add(stock);
-            stock.Activate();
+            stock.StockEvent += EventHandler;
         } 
 //---------------------------------------------------------------------------------------
  
@@ -66,8 +66,8 @@ namespace Stock
                 string output = (BrokerName.PadRight(16) + newStock.StockName.PadRight(16) + newStock.CurrentValue.ToString().PadRight(16) +
                     newStock.NumChanges.ToString().PadRight(16) + DateTime.Now.ToString().PadRight(16));
                 Console.WriteLine(output);
-                //Display the output to the file 
-                using (StreamWriter outputFile = new StreamWriter(destPath))
+                //Display the output to the file
+                using (StreamWriter outputFile = new StreamWriter(destPath, true))
                 {
                     outputFile.WriteLine(output);
                 }
