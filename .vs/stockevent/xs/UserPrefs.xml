@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="stock.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="stockbroker.cs">
     <Files>
-      <File FileName="stock.cs" Line="85" Column="45" />
-      <File FileName="stockbroker.cs" />
+      <File FileName="stock.cs" />
+      <File FileName="stockbroker.cs" Line="81" Column="61" />
       <File FileName="stocknotification.cs" />
       <File FileName="StockApplication.cs" />
     </Files>
